@@ -1,0 +1,864 @@
+war_name,year,country_abbr,country_name,region,country_lat,country_long,war_type
+Assam,1962,IN,India,Southern Asia,20.593684,78.96288,inter
+"Vietnam War, Phase 2",1965,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1966,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1967,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1968,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1969,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1970,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1971,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1972,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1973,US,United States,Northern America,37.09024,-95.712891,inter
+"Vietnam War, Phase 2",1970,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+"Vietnam War, Phase 2",1971,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+"Vietnam War, Phase 2",1972,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+"Vietnam War, Phase 2",1973,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+"Vietnam War, Phase 2",1974,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+"Vietnam War, Phase 2",1975,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+"Vietnam War, Phase 2",1965,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1966,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1967,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1968,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1969,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1970,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1971,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1972,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1973,KR,South Korea,Eastern Asia,35.907757,127.766922,inter
+"Vietnam War, Phase 2",1966,PH,Philippines,South-eastern Asia,12.879721,121.774017,inter
+"Vietnam War, Phase 2",1967,PH,Philippines,South-eastern Asia,12.879721,121.774017,inter
+"Vietnam War, Phase 2",1968,PH,Philippines,South-eastern Asia,12.879721,121.774017,inter
+"Vietnam War, Phase 2",1969,PH,Philippines,South-eastern Asia,12.879721,121.774017,inter
+"Vietnam War, Phase 2",1970,PH,Philippines,South-eastern Asia,12.879721,121.774017,inter
+"Vietnam War, Phase 2",1971,PH,Philippines,South-eastern Asia,12.879721,121.774017,inter
+"Vietnam War, Phase 2",1972,PH,Philippines,South-eastern Asia,12.879721,121.774017,inter
+"Vietnam War, Phase 2",1973,PH,Philippines,South-eastern Asia,12.879721,121.774017,inter
+"Vietnam War, Phase 2",1965,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1966,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1967,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1968,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1969,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1970,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1971,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1972,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1973,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1974,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1975,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1965,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1966,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1967,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1968,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1969,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1970,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1971,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1972,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1973,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1974,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1975,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Vietnam War, Phase 2",1967,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Vietnam War, Phase 2",1968,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Vietnam War, Phase 2",1969,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Vietnam War, Phase 2",1970,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Vietnam War, Phase 2",1971,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Vietnam War, Phase 2",1972,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Vietnam War, Phase 2",1973,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Vietnam War, Phase 2",1965,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+"Vietnam War, Phase 2",1966,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+"Vietnam War, Phase 2",1967,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+"Vietnam War, Phase 2",1968,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+"Vietnam War, Phase 2",1969,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+"Vietnam War, Phase 2",1970,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+"Vietnam War, Phase 2",1971,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+"Vietnam War, Phase 2",1972,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+Second Kashmir,1965,IN,India,Southern Asia,20.593684,78.96288,inter
+Second Kashmir,1965,PK,Pakistan,Southern Asia,30.375321,69.345116,inter
+Six Day War,1967,IL,Israel,Western Asia,31.046051,34.851612,inter
+Six Day War,1967,EG,Egypt,Northern Africa,26.820553,30.802498,inter
+Six Day War,1967,JO,Jordan,Western Asia,30.585164,36.238414,inter
+Six Day War,1967,SY,Syria,Western Asia,34.802075,38.996815,inter
+"Second Laotian, Phase 2",1968,US,United States,Northern America,37.09024,-95.712891,inter
+"Second Laotian, Phase 2",1969,US,United States,Northern America,37.09024,-95.712891,inter
+"Second Laotian, Phase 2",1970,US,United States,Northern America,37.09024,-95.712891,inter
+"Second Laotian, Phase 2",1971,US,United States,Northern America,37.09024,-95.712891,inter
+"Second Laotian, Phase 2",1972,US,United States,Northern America,37.09024,-95.712891,inter
+"Second Laotian, Phase 2",1973,US,United States,Northern America,37.09024,-95.712891,inter
+"Second Laotian, Phase 2",1970,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Second Laotian, Phase 2",1971,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Second Laotian, Phase 2",1972,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Second Laotian, Phase 2",1973,TH,Thailand,South-eastern Asia,15.870032,100.992541,inter
+"Second Laotian, Phase 2",1968,LA,Laos,South-eastern Asia,19.85627,102.495496,inter
+"Second Laotian, Phase 2",1969,LA,Laos,South-eastern Asia,19.85627,102.495496,inter
+"Second Laotian, Phase 2",1970,LA,Laos,South-eastern Asia,19.85627,102.495496,inter
+"Second Laotian, Phase 2",1971,LA,Laos,South-eastern Asia,19.85627,102.495496,inter
+"Second Laotian, Phase 2",1972,LA,Laos,South-eastern Asia,19.85627,102.495496,inter
+"Second Laotian, Phase 2",1973,LA,Laos,South-eastern Asia,19.85627,102.495496,inter
+"Second Laotian, Phase 2",1968,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Second Laotian, Phase 2",1969,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Second Laotian, Phase 2",1970,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Second Laotian, Phase 2",1971,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Second Laotian, Phase 2",1972,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+"Second Laotian, Phase 2",1973,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+War of Attrition,1969,EG,Egypt,Northern Africa,26.820553,30.802498,inter
+War of Attrition,1970,EG,Egypt,Northern Africa,26.820553,30.802498,inter
+War of Attrition,1969,IL,Israel,Western Asia,31.046051,34.851612,inter
+War of Attrition,1970,IL,Israel,Western Asia,31.046051,34.851612,inter
+Football War,1969,HN,Honduras,Latin America and the Caribbean,15.199999,-86.241905,inter
+Football War,1969,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,inter
+Communist Coalition,1970,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Communist Coalition,1971,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Communist Coalition,1970,US,United States,Northern America,37.09024,-95.712891,inter
+Communist Coalition,1971,US,United States,Northern America,37.09024,-95.712891,inter
+Communist Coalition,1970,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+Communist Coalition,1971,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+Communist Coalition,1970,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Communist Coalition,1971,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Bangladesh,1971,IN,India,Southern Asia,20.593684,78.96288,inter
+Bangladesh,1971,PK,Pakistan,Southern Asia,30.375321,69.345116,inter
+Yom Kippur War,1973,EG,Egypt,Northern Africa,26.820553,30.802498,inter
+Yom Kippur War,1973,SA,Saudi Arabia,Western Asia,23.885942,45.079162,inter
+Yom Kippur War,1973,IL,Israel,Western Asia,31.046051,34.851612,inter
+Yom Kippur War,1973,JO,Jordan,Western Asia,30.585164,36.238414,inter
+Yom Kippur War,1973,SY,Syria,Western Asia,34.802075,38.996815,inter
+Yom Kippur War,1973,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Turco-Cypriot,1974,TR,Turkey,Western Asia,38.963745,35.243322,inter
+Turco-Cypriot,1974,CY,Cyprus,Western Asia,35.126413,33.429859,inter
+War over Angola,1975,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,inter
+War over Angola,1976,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,inter
+War over Angola,1975,ZA,South Africa,Sub-Saharan Africa,-30.559482,22.937506,inter
+War over Angola,1976,ZA,South Africa,Sub-Saharan Africa,-30.559482,22.937506,inter
+War over Angola,1975,CD,Congo [DRC],Sub-Saharan Africa,-4.038333,21.758664,inter
+War over Angola,1976,CD,Congo [DRC],Sub-Saharan Africa,-4.038333,21.758664,inter
+War over Angola,1975,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,inter
+War over Angola,1976,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,inter
+"Second Ogaden War, Phase 2",1977,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,inter
+"Second Ogaden War, Phase 2",1978,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,inter
+"Second Ogaden War, Phase 2",1977,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,inter
+"Second Ogaden War, Phase 2",1978,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,inter
+"Second Ogaden War, Phase 2",1977,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,inter
+"Second Ogaden War, Phase 2",1978,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,inter
+Vietnamese-Cambodian,1977,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Vietnamese-Cambodian,1978,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Vietnamese-Cambodian,1979,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Vietnamese-Cambodian,1977,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+Vietnamese-Cambodian,1978,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+Vietnamese-Cambodian,1979,KH,Cambodia,South-eastern Asia,12.565679,104.990963,inter
+Ugandian-Tanzanian,1978,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,inter
+Ugandian-Tanzanian,1979,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,inter
+Ugandian-Tanzanian,1978,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,inter
+Ugandian-Tanzanian,1979,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,inter
+Ugandian-Tanzanian,1979,LY,Libya,Northern Africa,26.3351,17.228331,inter
+Sino-Vietnamese Punitive,1979,CN,China,Eastern Asia,35.86166,104.195397,inter
+Sino-Vietnamese Punitive,1979,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Iran-Iraq,1980,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1981,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1982,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1983,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1984,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1985,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1986,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1987,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1988,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Iran-Iraq,1980,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Iran-Iraq,1981,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Iran-Iraq,1982,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Iran-Iraq,1983,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Iran-Iraq,1984,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Iran-Iraq,1985,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Iran-Iraq,1986,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Iran-Iraq,1987,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Iran-Iraq,1988,IR,Iran,Southern Asia,32.427908,53.688046,inter
+Falkland Islands,1982,GB,United Kingdom,Northern Europe,55.378051,-3.435973,inter
+Falkland Islands,1982,AR,Argentina,Latin America and the Caribbean,-38.416097,-63.616672,inter
+War over Lebanon,1982,IL,Israel,Western Asia,31.046051,34.851612,inter
+War over Lebanon,1982,SY,Syria,Western Asia,34.802075,38.996815,inter
+War over the Aouzou Strip,1986,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,inter
+War over the Aouzou Strip,1987,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,inter
+War over the Aouzou Strip,1986,LY,Libya,Northern Africa,26.3351,17.228331,inter
+War over the Aouzou Strip,1987,LY,Libya,Northern Africa,26.3351,17.228331,inter
+Sino-Vietnamese Border War,1987,VN,Vietnam,South-eastern Asia,14.058324,108.277199,inter
+Sino-Vietnamese Border War,1987,CN,China,Eastern Asia,35.86166,104.195397,inter
+Gulf War,1990,KW,Kuwait,Western Asia,29.31166,47.481766,inter
+Gulf War,1991,KW,Kuwait,Western Asia,29.31166,47.481766,inter
+Gulf War,1991,US,United States,Northern America,37.09024,-95.712891,inter
+Gulf War,1991,CA,Canada,Northern America,56.130366,-106.346771,inter
+Gulf War,1991,GB,United Kingdom,Northern Europe,55.378051,-3.435973,inter
+Gulf War,1991,IT,Italy,Southern Europe,41.87194,12.56738,inter
+Gulf War,1991,MA,Morocco,Northern Africa,31.791702,-7.09262,inter
+Gulf War,1990,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Gulf War,1991,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Gulf War,1991,EG,Egypt,Northern Africa,26.820553,30.802498,inter
+Gulf War,1991,OM,Oman,Western Asia,21.512583,55.923255,inter
+Gulf War,1991,FR,France,Western Europe,46.227638,2.213749,inter
+Gulf War,1991,AE,United Arab Emirates,Western Asia,23.424076,53.847818,inter
+Gulf War,1991,QA,Qatar,Western Asia,25.354826,51.183884,inter
+Gulf War,1991,SA,Saudi Arabia,Western Asia,23.885942,45.079162,inter
+Gulf War,1991,SY,Syria,Western Asia,34.802075,38.996815,inter
+Bosnian Independence,1992,HR,Croatia,Southern Europe,45.1,15.2,inter
+Azeri-Armenian,1993,AZ,Azerbaijan,Western Asia,40.143105,47.576927,inter
+Azeri-Armenian,1994,AZ,Azerbaijan,Western Asia,40.143105,47.576927,inter
+Azeri-Armenian,1993,AM,Armenia,Western Asia,40.069099,45.038189,inter
+Azeri-Armenian,1994,AM,Armenia,Western Asia,40.069099,45.038189,inter
+Cenepa Valley,1995,EC,Ecuador,Latin America and the Caribbean,-1.831239,-78.183406,inter
+Cenepa Valley,1995,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,inter
+Badme Border,1998,ER,Eritrea,Sub-Saharan Africa,15.179384,39.782334,inter
+Badme Border,1999,ER,Eritrea,Sub-Saharan Africa,15.179384,39.782334,inter
+Badme Border,2000,ER,Eritrea,Sub-Saharan Africa,15.179384,39.782334,inter
+Badme Border,1998,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,inter
+Badme Border,1999,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,inter
+Badme Border,2000,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,inter
+War for Kosovo,1999,TR,Turkey,Western Asia,38.963745,35.243322,inter
+War for Kosovo,1999,IT,Italy,Southern Europe,41.87194,12.56738,inter
+War for Kosovo,1999,GB,United Kingdom,Northern Europe,55.378051,-3.435973,inter
+War for Kosovo,1999,US,United States,Northern America,37.09024,-95.712891,inter
+War for Kosovo,1999,NL,Netherlands,Western Europe,52.132633,5.291266,inter
+War for Kosovo,1999,FR,France,Western Europe,46.227638,2.213749,inter
+War for Kosovo,1999,DE,Germany,Western Europe,51.165691,10.451526,inter
+Kargil War,1999,IN,India,Southern Asia,20.593684,78.96288,inter
+Kargil War,1999,PK,Pakistan,Southern Asia,30.375321,69.345116,inter
+Invasion of Afghanistan,2001,CA,Canada,Northern America,56.130366,-106.346771,inter
+Invasion of Afghanistan,2001,FR,France,Western Europe,46.227638,2.213749,inter
+Invasion of Afghanistan,2001,GB,United Kingdom,Northern Europe,55.378051,-3.435973,inter
+Invasion of Afghanistan,2001,US,United States,Northern America,37.09024,-95.712891,inter
+Invasion of Afghanistan,2001,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+Invasion of Afghanistan,2001,AF,Afghanistan,Southern Asia,33.93911,67.709953,inter
+Invasion of Iraq,2003,AU,Australia,Australia and New Zealand,-25.274398,133.775136,inter
+Invasion of Iraq,2003,GB,United Kingdom,Northern Europe,55.378051,-3.435973,inter
+Invasion of Iraq,2003,US,United States,Northern America,37.09024,-95.712891,inter
+Invasion of Iraq,2003,IQ,Iraq,Western Asia,33.223191,43.679291,inter
+Vietnam Phase 1,1961,US,United States,Northern America,37.09024,-95.712891,intra
+Vietnam Phase 1,1962,US,United States,Northern America,37.09024,-95.712891,intra
+Vietnam Phase 1,1963,US,United States,Northern America,37.09024,-95.712891,intra
+Vietnam Phase 1,1964,US,United States,Northern America,37.09024,-95.712891,intra
+Vietnam Phase 1,1965,US,United States,Northern America,37.09024,-95.712891,intra
+First Iraqi Kurd,1961,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+First Iraqi Kurd,1962,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+First Iraqi Kurd,1963,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Algerian Revolutionaries,1962,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Algerian Revolutionaries,1963,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+North Yemen,1962,YE,Yemen,Western Asia,15.552727,48.516388,intra
+North Yemen,1963,YE,Yemen,Western Asia,15.552727,48.516388,intra
+North Yemen,1964,YE,Yemen,Western Asia,15.552727,48.516388,intra
+North Yemen,1965,YE,Yemen,Western Asia,15.552727,48.516388,intra
+North Yemen,1966,YE,Yemen,Western Asia,15.552727,48.516388,intra
+North Yemen,1967,YE,Yemen,Western Asia,15.552727,48.516388,intra
+North Yemen,1968,YE,Yemen,Western Asia,15.552727,48.516388,intra
+North Yemen,1969,YE,Yemen,Western Asia,15.552727,48.516388,intra
+Second Laotian Phase 1,1964,US,United States,Northern America,37.09024,-95.712891,intra
+Second Laotian Phase 1,1965,US,United States,Northern America,37.09024,-95.712891,intra
+Second Laotian Phase 1,1966,US,United States,Northern America,37.09024,-95.712891,intra
+Second Laotian Phase 1,1967,US,United States,Northern America,37.09024,-95.712891,intra
+Second Laotian Phase 1,1968,US,United States,Northern America,37.09024,-95.712891,intra
+Second Laotian Phase 1,1963,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Second Laotian Phase 1,1964,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Second Laotian Phase 1,1965,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Second Laotian Phase 1,1966,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Second Laotian Phase 1,1967,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Second Laotian Phase 1,1968,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+First Ogaden,1963,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+First Ogaden,1964,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+First South Sudan,1963,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1964,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1965,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1966,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1967,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1968,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1969,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1970,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1971,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+First South Sudan,1972,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second DRC (Jeunesse),1963,CG,Congo [Republic],Sub-Saharan Africa,-0.228021,15.827659,intra
+Second DRC (Jeunesse),1964,CG,Congo [Republic],Sub-Saharan Africa,-0.228021,15.827659,intra
+Second DRC (Jeunesse),1965,CG,Congo [Republic],Sub-Saharan Africa,-0.228021,15.827659,intra
+First Rwanda,1963,RW,Rwanda,Sub-Saharan Africa,-1.940278,29.873888,intra
+First Rwanda,1964,RW,Rwanda,Sub-Saharan Africa,-1.940278,29.873888,intra
+Third DRC (Simba) Rebellion,1964,BE,Belgium,Western Europe,50.503887,4.469936,intra
+Third DRC (Simba) Rebellion,1965,BE,Belgium,Western Europe,50.503887,4.469936,intra
+Third DRC (Simba) Rebellion,1964,CG,Congo [Republic],Sub-Saharan Africa,-0.228021,15.827659,intra
+Third DRC (Simba) Rebellion,1965,CG,Congo [Republic],Sub-Saharan Africa,-0.228021,15.827659,intra
+Second Iraqi Kurds,1965,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Second Iraqi Kurds,1966,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Dominican Republic,1965,US,United States,Northern America,37.09024,-95.712891,intra
+Dominican Republic,1965,DO,Dominican Republic,Latin America and the Caribbean,18.735693,-70.162651,intra
+First West Papua,1965,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+First West Papua,1966,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+First West Papua,1967,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+First West Papua,1968,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+First West Papua,1969,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+First Uganda,1966,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+First Guatemala,1966,US,United States,Northern America,37.09024,-95.712891,intra
+First Guatemala,1967,US,United States,Northern America,37.09024,-95.712891,intra
+First Guatemala,1968,US,United States,Northern America,37.09024,-95.712891,intra
+First Guatemala,1966,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+First Guatemala,1967,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+First Guatemala,1968,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+First Chad (FROLINAT) Rebellion,1968,FR,France,Western Europe,46.227638,2.213749,intra
+First Chad (FROLINAT) Rebellion,1969,FR,France,Western Europe,46.227638,2.213749,intra
+First Chad (FROLINAT) Rebellion,1970,FR,France,Western Europe,46.227638,2.213749,intra
+First Chad (FROLINAT) Rebellion,1971,FR,France,Western Europe,46.227638,2.213749,intra
+First Chad (FROLINAT) Rebellion,1966,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+First Chad (FROLINAT) Rebellion,1967,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+First Chad (FROLINAT) Rebellion,1968,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+First Chad (FROLINAT) Rebellion,1969,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+First Chad (FROLINAT) Rebellion,1970,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+First Chad (FROLINAT) Rebellion,1971,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Biafra,1967,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Biafra,1968,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Biafra,1969,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Biafra,1970,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Cultural Revolution Phase 2,1967,CN,China,Eastern Asia,35.86166,104.195397,intra
+Cultural Revolution Phase 2,1968,CN,China,Eastern Asia,35.86166,104.195397,intra
+Third Iraqi Kurds,1969,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Third Iraqi Kurds,1970,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Naxalite Rebellion,1970,IN,India,Southern Asia,20.593684,78.96288,intra
+Naxalite Rebellion,1971,IN,India,Southern Asia,20.593684,78.96288,intra
+Black September,1970,JO,Jordan,Western Asia,30.585164,36.238414,intra
+Second Guatemala,1970,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Second Guatemala,1971,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Pakistan-Bengal,1971,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+First Sri Lanka-JVP,1971,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+Khmer Rouge,1971,US,United States,Northern America,37.09024,-95.712891,intra
+Khmer Rouge,1972,US,United States,Northern America,37.09024,-95.712891,intra
+Khmer Rouge,1973,US,United States,Northern America,37.09024,-95.712891,intra
+Khmer Rouge,1971,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Khmer Rouge,1972,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Khmer Rouge,1973,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Khmer Rouge,1974,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Khmer Rouge,1975,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+First Philippine-Moro,1972,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1973,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1974,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1975,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1976,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1977,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1978,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1979,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1980,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+First Philippine-Moro,1981,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Communist Insurgency,1972,TH,Thailand,South-eastern Asia,15.870032,100.992541,intra
+Communist Insurgency,1973,TH,Thailand,South-eastern Asia,15.870032,100.992541,intra
+First Burundi,1972,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Philippines-NPA,1972,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1973,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1974,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1975,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1976,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1977,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1978,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1979,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1980,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1981,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1982,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1983,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1984,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1985,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1986,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1987,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1988,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1989,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1990,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1991,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Philippines-NPA,1992,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Baluchi Separatists,1973,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Baluchi Separatists,1974,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Baluchi Separatists,1975,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Baluchi Separatists,1976,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Baluchi Separatists,1977,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Chilean Coup of 1973,1973,CL,Chile,Latin America and the Caribbean,-35.675147,-71.542969,intra
+Dhofar Rebellion Phase 2,1973,GB,United Kingdom,Northern Europe,55.378051,-3.435973,intra
+Dhofar Rebellion Phase 2,1974,GB,United Kingdom,Northern Europe,55.378051,-3.435973,intra
+Dhofar Rebellion Phase 2,1975,GB,United Kingdom,Northern Europe,55.378051,-3.435973,intra
+Dhofar Rebellion Phase 2,1973,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Dhofar Rebellion Phase 2,1974,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Dhofar Rebellion Phase 2,1975,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Dhofar Rebellion Phase 2,1973,OM,Oman,Western Asia,21.512583,55.923255,intra
+Dhofar Rebellion Phase 2,1974,OM,Oman,Western Asia,21.512583,55.923255,intra
+Dhofar Rebellion Phase 2,1975,OM,Oman,Western Asia,21.512583,55.923255,intra
+Fourth Iraqi Kurds,1974,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Fourth Iraqi Kurds,1975,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Eritrean War,1976,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Eritrean War,1977,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Eritrean War,1978,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Eritrean War,1975,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Eritrean War,1976,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Eritrean War,1977,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Eritrean War,1978,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Argentine Leftists,1975,AR,Argentina,Latin America and the Caribbean,-38.416097,-63.616672,intra
+Argentine Leftists,1976,AR,Argentina,Latin America and the Caribbean,-38.416097,-63.616672,intra
+Argentine Leftists,1977,AR,Argentina,Latin America and the Caribbean,-38.416097,-63.616672,intra
+Second Lebanese,1976,SY,Syria,Western Asia,34.802075,38.996815,intra
+Second West Papua,1976,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Second West Papua,1977,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Second West Papua,1978,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Third Laotian,1976,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Third Laotian,1977,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Third Laotian,1978,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Third Laotian,1979,LA,Laos,South-eastern Asia,19.85627,102.495496,intra
+Third Laotian,1976,VN,Vietnam,South-eastern Asia,14.058324,108.277199,intra
+Third Laotian,1977,VN,Vietnam,South-eastern Asia,14.058324,108.277199,intra
+Third Laotian,1978,VN,Vietnam,South-eastern Asia,14.058324,108.277199,intra
+Third Laotian,1979,VN,Vietnam,South-eastern Asia,14.058324,108.277199,intra
+Angolan Control,1976,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1977,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1978,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1979,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1980,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1981,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1982,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1983,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1984,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1985,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1986,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1987,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1988,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1989,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1990,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1991,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Angolan Control,1976,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1977,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1978,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1979,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1980,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1981,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1982,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1983,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1984,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1985,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1986,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1987,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1988,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1989,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1990,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan Control,1991,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Second Ogaden Phase 1,1976,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Second Ogaden Phase 1,1977,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Second Ogaden Phase 1,1976,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Second Ogaden Phase 1,1977,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+East Timorese War Phase 3,1976,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+East Timorese War Phase 3,1977,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+East Timorese War Phase 3,1978,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+East Timorese War Phase 3,1979,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Third Lebanese,1978,IL,Israel,Western Asia,31.046051,34.851612,intra
+Second Ogaden Phase 3,1978,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Second Ogaden Phase 3,1979,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Second Ogaden Phase 3,1980,CU,Cuba,Latin America and the Caribbean,21.521757,-77.781167,intra
+Second Ogaden Phase 3,1978,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Second Ogaden Phase 3,1979,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Second Ogaden Phase 3,1980,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Third Guatemala,1978,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Third Guatemala,1979,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Third Guatemala,1980,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Third Guatemala,1981,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Third Guatemala,1982,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Third Guatemala,1983,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Third Guatemala,1984,GT,Guatemala,Latin America and the Caribbean,15.783471,-90.230759,intra
+Saur Revolution,1978,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Fourth DRC (Shaba),1978,BE,Belgium,Western Europe,50.503887,4.469936,intra
+Fourth DRC (Shaba),1978,FR,France,Western Europe,46.227638,2.213749,intra
+First Afghan Mujahideen Uprising,1979,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+First Afghan Mujahideen Uprising,1980,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+First Afghan Mujahideen Uprising,1978,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+First Afghan Mujahideen Uprising,1979,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+First Afghan Mujahideen Uprising,1980,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Overthrow of the Shah,1978,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Overthrow of the Shah,1979,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Sandinista Rebellion,1978,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Sandinista Rebellion,1979,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Anti-Khomeini Coalition,1979,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Anti-Khomeini Coalition,1980,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Anti-Khomeini Coalition,1981,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Anti-Khomeini Coalition,1982,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Anti-Khomeini Coalition,1983,IR,Iran,Southern Asia,32.427908,53.688046,intra
+Anti-Khomeini Coalition,1984,IR,Iran,Southern Asia,32.427908,53.688046,intra
+El Salvador,1979,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1980,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1981,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1982,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1983,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1984,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1985,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1986,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1987,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1988,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1989,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1990,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1991,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+El Salvador,1992,SV,El Salvador,Latin America and the Caribbean,13.794185,-88.89653,intra
+Mozambique,1985,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,intra
+Mozambique,1986,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,intra
+Mozambique,1987,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,intra
+Mozambique,1988,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,intra
+Mozambique,1989,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,intra
+Mozambique,1990,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,intra
+Mozambique,1991,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,intra
+Mozambique,1992,TZ,Tanzania,Sub-Saharan Africa,-6.369028,34.888822,intra
+Mozambique,1979,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1980,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1981,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1982,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1983,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1984,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1985,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1986,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1987,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1988,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1989,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1990,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1991,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1992,MZ,Mozambique,Sub-Saharan Africa,-18.665695,35.529562,intra
+Mozambique,1982,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1983,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1984,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1985,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1986,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1987,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1988,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1989,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1990,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1991,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Mozambique,1992,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Second Chad (Habre Revolt),1980,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Second Chad (Habre Revolt),1981,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Second Chad (Habre Revolt),1982,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Second Chad (Habre Revolt),1983,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Second Chad (Habre Revolt),1984,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Second Chad (Habre Revolt),1980,LY,Libya,Northern Africa,26.3351,17.228331,intra
+Second Chad (Habre Revolt),1981,LY,Libya,Northern Africa,26.3351,17.228331,intra
+Second Uganda,1980,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Second Uganda,1981,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Second Uganda,1982,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Second Uganda,1983,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Second Uganda,1984,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Second Uganda,1985,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Second Uganda,1986,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Nigeria-Muslim,1980,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Nigeria-Muslim,1981,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Hama,1981,SY,Syria,Western Asia,34.802075,38.996815,intra
+Hama,1982,SY,Syria,Western Asia,34.802075,38.996815,intra
+Tigrean and Eritrean,1982,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1983,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1984,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1985,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1986,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1987,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1988,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1989,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1990,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Tigrean and Eritrean,1991,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Shining Path,1982,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1983,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1984,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1985,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1986,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1987,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1988,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1989,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1990,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1991,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Shining Path,1992,PE,Peru,Latin America and the Caribbean,-9.189967,-75.015152,intra
+Contra War,1982,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Contra War,1983,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Contra War,1984,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Contra War,1985,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Contra War,1986,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Contra War,1987,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Contra War,1988,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Contra War,1989,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Contra War,1990,NI,Nicaragua,Latin America and the Caribbean,12.865416,-85.207229,intra
+Matabeleland,1983,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Matabeleland,1984,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Matabeleland,1985,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Matabeleland,1986,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Matabeleland,1987,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Fourth Lebanese Civil,1983,US,United States,Northern America,37.09024,-95.712891,intra
+Fourth Lebanese Civil,1984,US,United States,Northern America,37.09024,-95.712891,intra
+Fourth Lebanese Civil,1983,FR,France,Western Europe,46.227638,2.213749,intra
+Fourth Lebanese Civil,1984,FR,France,Western Europe,46.227638,2.213749,intra
+Fourth Lebanese Civil,1983,LB,Lebanon,Western Asia,33.854721,35.862285,intra
+Fourth Lebanese Civil,1984,LB,Lebanon,Western Asia,33.854721,35.862285,intra
+First Sri Lanka Tamil,1987,IN,India,Southern Asia,20.593684,78.96288,intra
+First Sri Lanka Tamil,1988,IN,India,Southern Asia,20.593684,78.96288,intra
+First Sri Lanka Tamil,1989,IN,India,Southern Asia,20.593684,78.96288,intra
+First Sri Lanka Tamil,1990,IN,India,Southern Asia,20.593684,78.96288,intra
+First Sri Lanka Tamil,1983,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1984,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1985,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1986,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1987,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1988,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1989,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1990,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1991,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1992,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1993,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1994,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1995,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1996,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1997,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1998,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,1999,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,2000,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,2001,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Sri Lanka Tamil,2002,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+Second South Sudan,1983,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second South Sudan,1984,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second South Sudan,1985,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second South Sudan,1986,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second South Sudan,1987,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second South Sudan,1988,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second South Sudan,1989,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second South Sudan,1990,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Second South Sudan,1991,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Indian Golden Temple,1984,IN,India,Southern Asia,20.593684,78.96288,intra
+First Turkish Kurds,1984,TR,Turkey,Western Asia,38.963745,35.243322,intra
+First Turkish Kurds,1985,TR,Turkey,Western Asia,38.963745,35.243322,intra
+First Turkish Kurds,1986,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Fifth Iraqi  Kurds,1985,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Fifth Iraqi  Kurds,1986,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Fifth Iraqi  Kurds,1987,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Fifth Iraqi  Kurds,1988,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+South Yemen,1986,YE,Yemen,Western Asia,15.552727,48.516388,intra
+Holy Spirit Movement,1986,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Holy Spirit Movement,1987,UG,Uganda,Sub-Saharan Africa,1.373333,32.290275,intra
+Second Sri Lanka-JVP,1987,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+Second Sri Lanka-JVP,1988,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+Second Sri Lanka-JVP,1989,LK,Sri Lanka,Southern Asia,7.873054,80.771797,intra
+First Somalia,1988,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+First Somalia,1989,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+First Somalia,1990,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+First Somalia,1991,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Fifth Lebanese,1989,LB,Lebanon,Western Asia,33.854721,35.862285,intra
+Fifth Lebanese,1990,LB,Lebanon,Western Asia,33.854721,35.862285,intra
+Second Afghan Mujahideen Uprising,1989,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1990,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1991,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1992,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1993,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1994,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1995,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1996,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1997,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1998,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,1999,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,2000,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Second Afghan Mujahideen Uprising,2001,AF,Afghanistan,Southern Asia,33.93911,67.709953,intra
+Third Chad (Deby Coup),1989,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Third Chad (Deby Coup),1990,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+First Aceh,1989,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+First Aceh,1990,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+First Aceh,1991,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Bougainville Secession,1989,PG,Papua New Guinea,Melanesia,-6.314993,143.95555,intra
+Bougainville Secession,1990,PG,Papua New Guinea,Melanesia,-6.314993,143.95555,intra
+Bougainville Secession,1991,PG,Papua New Guinea,Melanesia,-6.314993,143.95555,intra
+Bougainville Secession,1992,PG,Papua New Guinea,Melanesia,-6.314993,143.95555,intra
+First Cambodian Civil War,1989,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+First Cambodian Civil War,1990,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+First Cambodian Civil War,1991,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Romania,1989,RO,Romania,Eastern Europe,45.943161,24.96676,intra
+First Liberia,1989,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+First Liberia,1990,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+First Liberia,1990,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Kashmir Insurgents,1990,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1991,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1992,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1993,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1994,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1995,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1996,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1997,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1998,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,1999,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,2000,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,2001,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,2002,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,2003,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,2004,IN,India,Southern Asia,20.593684,78.96288,intra
+Kashmir Insurgents,2005,IN,India,Southern Asia,20.593684,78.96288,intra
+Shiite and Kurdish,1991,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+First Sierra Leone,1991,SL,Sierra Leone,Sub-Saharan Africa,8.460555,-11.779889,intra
+First Sierra Leone,1992,SL,Sierra Leone,Sub-Saharan Africa,8.460555,-11.779889,intra
+First Sierra Leone,1993,SL,Sierra Leone,Sub-Saharan Africa,8.460555,-11.779889,intra
+First Sierra Leone,1994,SL,Sierra Leone,Sub-Saharan Africa,8.460555,-11.779889,intra
+First Sierra Leone,1995,SL,Sierra Leone,Sub-Saharan Africa,8.460555,-11.779889,intra
+First Sierra Leone,1996,SL,Sierra Leone,Sub-Saharan Africa,8.460555,-11.779889,intra
+Second Turkish Kurds,1991,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Turkish Kurds,1992,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Turkish Kurds,1993,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Turkish Kurds,1994,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Turkish Kurds,1995,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Turkish Kurds,1996,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Turkish Kurds,1997,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Turkish Kurds,1998,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Turkish Kurds,1999,TR,Turkey,Western Asia,38.963745,35.243322,intra
+Second Somalia,1992,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Second Somalia,1993,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Second Somalia,1994,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Second Somalia,1995,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Second Somalia,1991,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Second Somalia,1992,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Second Somalia,1993,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Second Somalia,1994,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Second Somalia,1995,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Second Somalia,1996,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Second Somalia,1997,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Second Somalia,1992,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Second Somalia,1993,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Second Somalia,1994,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Second Somalia,1995,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Second Somalia,1992,AU,Australia,Australia and New Zealand,-25.274398,133.775136,intra
+Second Somalia,1993,AU,Australia,Australia and New Zealand,-25.274398,133.775136,intra
+Second Somalia,1994,AU,Australia,Australia and New Zealand,-25.274398,133.775136,intra
+Second Somalia,1995,AU,Australia,Australia and New Zealand,-25.274398,133.775136,intra
+Second Somalia,1992,FR,France,Western Europe,46.227638,2.213749,intra
+Second Somalia,1993,FR,France,Western Europe,46.227638,2.213749,intra
+Second Somalia,1994,FR,France,Western Europe,46.227638,2.213749,intra
+Second Somalia,1995,FR,France,Western Europe,46.227638,2.213749,intra
+Second Somalia,1992,US,United States,Northern America,37.09024,-95.712891,intra
+Second Somalia,1993,US,United States,Northern America,37.09024,-95.712891,intra
+Second Somalia,1994,US,United States,Northern America,37.09024,-95.712891,intra
+Second Somalia,1992,IT,Italy,Southern Europe,41.87194,12.56738,intra
+Second Somalia,1993,IT,Italy,Southern Europe,41.87194,12.56738,intra
+Second Somalia,1994,IT,Italy,Southern Europe,41.87194,12.56738,intra
+Second Somalia,1995,IT,Italy,Southern Europe,41.87194,12.56738,intra
+Georgia,1991,GE,Georgia,Western Asia,42.315407,43.356892,intra
+Georgia,1992,GE,Georgia,Western Asia,42.315407,43.356892,intra
+Nagorno-Karabakh,1991,AZ,Azerbaijan,Western Asia,40.143105,47.576927,intra
+Nagorno-Karabakh,1992,AZ,Azerbaijan,Western Asia,40.143105,47.576927,intra
+Nagorno-Karabakh,1993,AZ,Azerbaijan,Western Asia,40.143105,47.576927,intra
+Dniestrian Independence,1991,MD,Moldova,Eastern Europe,47.411631,28.369885,intra
+Dniestrian Independence,1992,MD,Moldova,Eastern Europe,47.411631,28.369885,intra
+Algerian Islamic Front,1992,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Algerian Islamic Front,1993,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Algerian Islamic Front,1994,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Algerian Islamic Front,1995,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Algerian Islamic Front,1996,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Algerian Islamic Front,1997,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Algerian Islamic Front,1998,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Algerian Islamic Front,1999,DZ,Algeria,Northern Africa,28.033886,1.659626,intra
+Tajikistan,1993,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Tajikistan,1994,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Tajikistan,1995,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Tajikistan,1996,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Tajikistan,1997,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Bosnian-Serb Rebellion,1995,US,United States,Northern America,37.09024,-95.712891,intra
+Bosnian-Serb Rebellion,1992,HR,Croatia,Southern Europe,45.1,15.2,intra
+Bosnian-Serb Rebellion,1993,HR,Croatia,Southern Europe,45.1,15.2,intra
+Bosnian-Serb Rebellion,1994,HR,Croatia,Southern Europe,45.1,15.2,intra
+Second Liberia,1992,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+Second Liberia,1993,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+Second Liberia,1994,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+Second Liberia,1995,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+Second Liberia,1992,NG,Nigeria,Sub-Saharan Africa,9.081999,8.675277,intra
+Angolan War of the Cities,1992,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan War of the Cities,1993,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Angolan War of the Cities,1994,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Second Cambodia Civil,1993,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Second Cambodia Civil,1994,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Second Cambodia Civil,1995,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Second Cambodia Civil,1996,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Second Cambodia Civil,1997,KH,Cambodia,South-eastern Asia,12.565679,104.990963,intra
+Abkhazia Revolt,1993,GE,Georgia,Western Asia,42.315407,43.356892,intra
+Abkhazia Revolt,1994,GE,Georgia,Western Asia,42.315407,43.356892,intra
+Second Burundi,1993,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Second Burundi,1994,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Second Burundi,1995,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Second Burundi,1996,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Second Burundi,1997,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Second Burundi,1998,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+South Yemeni Secessionist,1994,YE,Yemen,Western Asia,15.552727,48.516388,intra
+Second Rwanda,1994,RW,Rwanda,Sub-Saharan Africa,-1.940278,29.873888,intra
+First Chechnya,1994,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+First Chechnya,1995,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+First Chechnya,1996,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Croatia-Krajina War,1995,HR,Croatia,Southern Europe,45.1,15.2,intra
+Third Liberia,1996,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+Sixth Iraqi Kurds,1996,IQ,Iraq,Western Asia,33.223191,43.679291,intra
+Third Rwanda,1997,RW,Rwanda,Sub-Saharan Africa,-1.940278,29.873888,intra
+Third Rwanda,1998,RW,Rwanda,Sub-Saharan Africa,-1.940278,29.873888,intra
+First Congo (Brazzaville),1997,CG,Congo [Republic],Sub-Saharan Africa,-0.228021,15.827659,intra
+Second Sierra Leone,1998,SL,Sierra Leone,Sub-Saharan Africa,8.460555,-11.779889,intra
+Second Sierra Leone,1999,SL,Sierra Leone,Sub-Saharan Africa,8.460555,-11.779889,intra
+Guinea-Bissau Military,1998,GN,Guinea,Sub-Saharan Africa,9.945587,-9.696645,intra
+Guinea-Bissau Military,1998,GW,Guinea-Bissau,Sub-Saharan Africa,11.803749,-15.180413,intra
+Guinea-Bissau Military,1999,GW,Guinea-Bissau,Sub-Saharan Africa,11.803749,-15.180413,intra
+Guinea-Bissau Military,1998,SN,Senegal,Sub-Saharan Africa,14.497401,-14.452362,intra
+Africa's World War,1998,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Africa's World War,1999,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Africa's World War,2000,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Africa's World War,2001,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Africa's World War,2002,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Africa's World War,1998,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Africa's World War,1999,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Africa's World War,2000,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Africa's World War,2001,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Africa's World War,2002,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Africa's World War,1998,NA,Namibia,Sub-Saharan Africa,-22.95764,18.49041,intra
+Africa's World War,1999,NA,Namibia,Sub-Saharan Africa,-22.95764,18.49041,intra
+Africa's World War,2000,NA,Namibia,Sub-Saharan Africa,-22.95764,18.49041,intra
+Africa's World War,2001,NA,Namibia,Sub-Saharan Africa,-22.95764,18.49041,intra
+Africa's World War,1998,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Africa's World War,1999,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Africa's World War,2000,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Africa's World War,2001,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Africa's World War,2002,ZW,Zimbabwe,Sub-Saharan Africa,-19.015438,29.154857,intra
+Africa's World War,1998,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Africa's World War,1999,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Africa's World War,1998,CD,Congo [DRC],Sub-Saharan Africa,-4.038333,21.758664,intra
+Africa's World War,1999,CD,Congo [DRC],Sub-Saharan Africa,-4.038333,21.758664,intra
+Africa's World War,2000,CD,Congo [DRC],Sub-Saharan Africa,-4.038333,21.758664,intra
+Africa's World War,2001,CD,Congo [DRC],Sub-Saharan Africa,-4.038333,21.758664,intra
+Africa's World War,2002,CD,Congo [DRC],Sub-Saharan Africa,-4.038333,21.758664,intra
+Fourth Chad (Togoimi Revolt),1998,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Fourth Chad (Togoimi Revolt),1999,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Fourth Chad (Togoimi Revolt),2000,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Third Angolan,1998,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Third Angolan,1999,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Third Angolan,2000,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Third Angolan,2001,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Third Angolan,2002,AO,Angola,Sub-Saharan Africa,-11.202692,17.873887,intra
+Second Aceh,1999,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Second Aceh,2000,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Second Aceh,2001,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Second Aceh,2002,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Oromo Liberation,1999,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Second Chechen,1999,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Second Chechen,2000,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Second Chechen,2001,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Second Chechen,2002,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Second Chechen,2003,RU,Russia,Eastern Europe,61.52401,105.318756,intra
+Second Philippine-Moro,2000,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Second Philippine-Moro,2001,PH,Philippines,South-eastern Asia,12.879721,121.774017,intra
+Third Burundi,2001,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Third Burundi,2002,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Third Burundi,2003,BI,Burundi,Sub-Saharan Africa,-3.373056,29.918886,intra
+Fourth Rwanda,2001,RW,Rwanda,Sub-Saharan Africa,-1.940278,29.873888,intra
+Fourth Liberian,2002,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+Fourth Liberian,2003,LR,Liberia,Sub-Saharan Africa,6.428055,-9.429499,intra
+Cote d'Ivoire Military,2002,FR,France,Western Europe,46.227638,2.213749,intra
+Cote d'Ivoire Military,2003,FR,France,Western Europe,46.227638,2.213749,intra
+Cote d'Ivoire Military,2004,FR,France,Western Europe,46.227638,2.213749,intra
+Darfur,2003,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Darfur,2004,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Darfur,2005,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Darfur,2006,SD,Sudan,Northern Africa,12.862807,30.217636,intra
+Third Aceh,2003,ID,Indonesia,South-eastern Asia,-0.789275,113.921327,intra
+Second Nepal Maoists,2003,NP,Nepal,Southern Asia,28.394857,84.124008,intra
+Second Nepal Maoists,2004,NP,Nepal,Southern Asia,28.394857,84.124008,intra
+Second Nepal Maoists,2005,NP,Nepal,Southern Asia,28.394857,84.124008,intra
+Second Nepal Maoists,2006,NP,Nepal,Southern Asia,28.394857,84.124008,intra
+Waziristan,2004,US,United States,Northern America,37.09024,-95.712891,intra
+Waziristan,2005,US,United States,Northern America,37.09024,-95.712891,intra
+Waziristan,2006,US,United States,Northern America,37.09024,-95.712891,intra
+Waziristan,2004,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Waziristan,2005,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+Waziristan,2006,PK,Pakistan,Southern Asia,30.375321,69.345116,intra
+First Yemeni Cleric,2004,YE,Yemen,Western Asia,15.552727,48.516388,intra
+First Yemeni Cleric,2005,YE,Yemen,Western Asia,15.552727,48.516388,intra
+Fifth Chad,2005,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Fifth Chad,2006,TD,Chad,Sub-Saharan Africa,15.454166,18.732207,intra
+Third Somalia,2007,US,United States,Northern America,37.09024,-95.712891,intra
+Third Somalia,2006,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Third Somalia,2007,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Third Somalia,2008,SO,Somalia,Sub-Saharan Africa,5.152149,46.199616,intra
+Third Somalia,2006,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Third Somalia,2007,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Third Somalia,2008,ET,Ethiopia,Sub-Saharan Africa,9.145,40.489673,intra
+Second Yemeni Cleric,2007,YE,Yemen,Western Asia,15.552727,48.516388,intra
